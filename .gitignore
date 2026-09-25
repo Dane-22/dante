@@ -23,6 +23,11 @@
 # misc
 .DS_Store
 *.pem
+/.vscode/
+/image.png
+
+# local source artwork (optimized public derivatives are committed)
+/graphics/
 
 # debug
 npm-debug.log*
