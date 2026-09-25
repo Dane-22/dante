@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "John Averi — Creative Full-Stack & Mobile Engineer",
+  title: "Daniel Rillera — Creative Full-Stack & Mobile Engineer",
   description:
     "High-converting developer portfolio in Light Mode featuring high-performance web systems, distributed APIs, and mobile architecture. Built with Next.js, Tailwind CSS, TypeScript, and GSAP.",
   keywords: [
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
     "GSAP",
     "Portfolio",
   ],
-  authors: [{ name: "John Averi" }],
+  authors: [{ name: "Daniel Rillera" }],
   openGraph: {
-    title: "John Averi — Creative Full-Stack & Mobile Engineer",
+    title: "Daniel Rillera — Creative Full-Stack & Mobile Engineer",
     description: "High-performance web systems, distributed APIs, and mobile architecture.",
     type: "website",
   },
